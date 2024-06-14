@@ -1,8 +1,9 @@
 # I'm Nichith
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" />
 
-- 🌱 I love to learn new things and building amazing Web Apps.
-- 🧙‍♂️ Currently working on improving problem solving.
+- 🌱 I love to learn new things and build amazing Web Apps.
+- 🧙‍♂️ Currently working on improving problem-solving.
+
 
 <br>
 
