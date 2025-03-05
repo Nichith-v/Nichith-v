@@ -23,7 +23,6 @@
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40"><br>Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"><br>Express.js</td>
   </tr>
@@ -32,7 +31,6 @@
 ## Databases and Cloud Platforms
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"><br>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40"><br>MySQL</td>
   </tr>
 </table>
